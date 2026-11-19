@@ -1,0 +1,9 @@
+{
+ "version": "8.1.2",
+ "package": "https://raw.githubusercontent.com/gswagatrmt/aat-releases/main/zips/auto-alt-text-ocr-ai-v8.1.2.zip",
+ "sha256": "873ae5faa58858be8c4c05c444fe15a395c3d1172bb027582b4c34a05766f1a7",
+ "requires": "5.2",
+ "requires_php": "7.0",
+ "published": "2026-11-19",
+ "changelog": "<h4>Version 8.1.2</h4><h4>New</h4><ul><li>Updates now arrive in Dashboard -&gt; Updates like any other plugin, and each one is verified with a digital signature before it installs.</li><li>Choose your update channel under the plugin on the Plugins screen: Stable (default) or Beta (new versions first).</li></ul>"
+}
