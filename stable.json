@@ -1,9 +1,9 @@
 {
- "version": "8.1.3",
- "package": "https://raw.githubusercontent.com/gswagatrmt/aat-releases/main/zips/auto-alt-text-ocr-ai-v8.1.3.zip",
- "sha256": "d406a9e23d03bac4d4c11cc03d85f9942280959cae18d6fff619325c9ce17c1e",
+ "version": "8.2.0",
+ "package": "https://raw.githubusercontent.com/gswagatrmt/aat-releases/main/zips/auto-alt-text-ocr-ai-v8.2.0.zip",
+ "sha256": "2d87b49a1299b17cc91bd5461c4048ae930e728ea04d3e4a8585762f1c5688d5",
  "requires": "5.2",
  "requires_php": "7.0",
- "published": "2026-11-19",
- "changelog": "<h4>Version 8.1.3</h4><h4>Fixed</h4><ul><li>Fixed several minor bugs.</li><li>Fixed an issue where some images were skipped during bulk processing.</li></ul><h4>Improved</h4><ul><li>Improved stability and performance.</li></ul>"
+ "published": "2026-11-20",
+ "changelog": "<h4>Version 8.2.0</h4><h4>Fixed</h4><p>* Fixed several minor bugs.</p><p>* Fixed an issue where some images were skipped during bulk processing.</p><h4>Improved</h4><p>* Improved stability and performance.</p>"
 }
