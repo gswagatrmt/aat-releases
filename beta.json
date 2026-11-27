@@ -1,9 +1,9 @@
 {
- "version": "8.2.0",
- "package": "https://raw.githubusercontent.com/gswagatrmt/aat-releases/main/zips/auto-alt-text-ocr-ai-v8.2.0.zip",
- "sha256": "2d87b49a1299b17cc91bd5461c4048ae930e728ea04d3e4a8585762f1c5688d5",
+ "version": "8.3.2",
+ "package": "https://raw.githubusercontent.com/gswagatrmt/aat-releases/main/zips/auto-alt-text-ocr-ai-v8.3.2.zip",
+ "sha256": "aaebb358bf2362957cf8350786debabfecfa5389ad2b97b6d12179427e8d316c",
  "requires": "5.2",
  "requires_php": "7.0",
- "published": "2026-11-20",
- "changelog": "<h4>Version 8.2.0</h4><h4>Fixed</h4><p>* Fixed several minor bugs.</p><p>* Fixed an issue where some images were skipped during bulk processing.</p><h4>Improved</h4><p>* Improved stability and performance.</p>"
+ "published": "2026-11-27",
+ "changelog": "<h4>Version 8.3.2</h4><h4>Improved</h4><p>* A clearer settings page: a sticky index groups the tools by job (alt text, site fixes, bulk SEO, images), and each tool shows at a glance whether it changes your site and how to undo it.</p><p>* A more legible typeface, Atkinson Hyperlegible, included with the plugin (nothing is loaded from other sites).</p><p>* Buttons that wrap onto a second line keep their spacing, and two-column settings stack on phones.</p><h4>Also in this update (8.3.0 and 8.3.1)</h4><p>* A new Image Compression section replaces the old one: convert your whole media library to WebP and AVIF copies, recompress original JPEGs in place (same name and address, only when the difference cannot be seen, with a backup and one-click restore), and compress a list of image addresses.</p><p>* After each run you can check the result: four sample images with a before/after slider and a full per-file list with search, filters and a CSV download.</p><p>* What it makes keeps working after the plugin is uninstalled: smaller JPEGs are the files themselves, and WebP / AVIF copies are served by a standard .htaccess rule on Apache and LiteSpeed servers.</p><p>* Removed: the old options that renamed images to .webp, rewrote image addresses in the database or deleted originals. Files they already changed are not touched.</p><p>* \"Recompress originals\" now also makes original WebP files smaller in place - same name and address, only when the difference cannot be seen, with a backup and one-click restore. Choose JPEG and / or WebP and a minimum file size; smaller files are skipped without being opened.</p><p>* \"Recompress in place\" for a single WebP address now applies the same quality checks and leaves animated WebP files alone.</p><p>* The before / after list shows a single result at its normal size and very small files in bytes.</p>"
 }
